@@ -78,10 +78,16 @@ export default defineNuxtConfig({
     ],
   },
 
-  // 7. Static Prerender Routes
+  // 7. Static Prerender & Edge Header Rules
   routeRules: {
     '/robots.txt': { prerender: true },
     '/sitemap.xml': { prerender: true },
+    '/llms.txt': {
+      headers: {
+        'content-type': 'text/plain; charset=utf-8',
+        'cache-control': 'public, max-age=3600, s-maxage=3600',
+      },
+    },
     '/': { prerender: true },
   },
 

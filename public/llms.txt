@@ -1,14 +1,12 @@
-# Brandsta — Custom Code (brandsta.cc)
+# Brandsta — Custom Code
 
 > Purpose-built digital tools, custom web applications, e-commerce engines, media studios, and cloud workflow systems by Brandsta—engineered around how a business actually sells, operates, and grows.
 
-Brandsta (`Brandsta Interactive`, founded 2021 in Koduvayur, Palakkad, Kerala, India) amplifies Businesses, Creators, Places, Artists, Professionals, Events, and Ideas across seven dimensions (Identity, Strategy, Visuals, Language, Experiences, Presence, Systems)—serving Kerala, all of India, and international clients worldwide.
+Brandsta (Brandsta Interactive, founded 2021 in Koduvayur, Palakkad, Kerala, India) amplifies Businesses, Creators, Places, Artists, Professionals, Events, and Ideas across seven dimensions—Identity, Strategy, Visuals, Language, Experiences, Presence, and Systems—serving Kerala, India, and international clients worldwide.
 
 ## Brand Identity & Ecosystem
-- [Brandsta Headquarters (Brandsta Interactive)](https://brandsta.in/): Parent studio — We make waves. Signature Branding. Amplified.
-- [Brandsta — Custom Code](https://brandsta.cc/): Custom Code division — Built around you. From one tool to your entire system.
-- [XML Sitemap](https://brandsta.cc/sitemap.xml): Canonical crawl index for Brandsta Custom Code.
-- [Robots Policy](https://brandsta.cc/robots.txt): Open crawler and AI discovery directives.
+- [Brandsta Headquarters](https://brandsta.in/): Parent studio — We make waves. Signature Branding. Amplified.
+- [Brandsta Custom Code](https://brandsta.cc/): Custom Code division — Built around you. From one tool to your entire system.
 
 ## Custom Code Capabilities
 - [Commerce & Cart Engines](https://brandsta.cc/#synthesis): Dynamic cart and bundle logic, real-time multi-channel inventory sync, instant order notifications, and automated cloud ledger archives.
@@ -17,16 +15,20 @@ Brandsta (`Brandsta Interactive`, founded 2021 in Koduvayur, Palakkad, Kerala, I
 - [Live Operational Command](https://brandsta.cc/#synthesis): Real-time availability and booking intake controls, instant team escalation alerts, and timestamped cloud audit trails.
 
 ## Full Brandsta Capabilities
-- [Identity Evolution](https://brandsta.in/): Brand strategy, positioning, naming, brand language, logo design, visual identity, rebranding, creative direction.
-- [Digital Identity](https://brandsta.in/): UI/UX design, web design, design systems, motion identity, social identity, digital assets, brand guidelines, brand presentations.
-- [Digital Experiences](https://brandsta.in/): High-performance websites, web apps, Android apps, e-commerce platforms, portfolios, landing pages, microsites, interactive experiences.
-- [Digital Presence](https://brandsta.in/): Technical SEO, local visibility, AI visibility, social media, creative content, editorial & copy, analytics, web performance.
-- [Digital Growth](https://brandsta.in/): Brand campaigns, advertising, product/brand launches, lead generation, conversion optimization, growth strategy, experimentation.
-- [Custom Code](https://brandsta.cc/): Bespoke operational tools, workflows, and integrated cloud platforms with enterprise cloud backups, real-time alert dispatch, decoupled content/media pipelines, and global edge delivery.
+- [Identity Evolution](https://brandsta.in/): Brand strategy, positioning, naming, brand language, logo design, visual identity, rebranding, and creative direction.
+- [Digital Identity](https://brandsta.in/): UI/UX design, web design, design systems, motion identity, social identity, digital assets, brand guidelines, and brand presentations.
+- [Digital Experiences](https://brandsta.in/): High-performance websites, web apps, Android apps, e-commerce platforms, portfolios, landing pages, microsites, and interactive experiences.
+- [Digital Presence](https://brandsta.in/): Technical SEO, local visibility, AI visibility, social media, creative content, editorial and copy, analytics, and web performance.
+- [Digital Growth](https://brandsta.in/): Brand campaigns, advertising, product and brand launches, lead generation, conversion optimization, growth strategy, and experimentation.
+- [Custom Code Systems](https://brandsta.cc/): Bespoke operational tools, workflows, and integrated cloud platforms with enterprise cloud backups, real-time alert dispatch, decoupled content and media pipelines, and global edge delivery.
 
 ## Official Contact & Channels
-- [Website (HQ)](https://brandsta.in/): Official Brandsta headquarters.
-- [Custom Code Hub](https://brandsta.cc/): Interactive Custom Code platform.
+- [Brandsta Website](https://brandsta.in/): Official Brandsta headquarters.
+- [Custom Code Hub](https://brandsta.cc/): Interactive Custom Code architecture platform.
 - [Email Brandsta](mailto:hello@brandsta.in): Direct inquiries at hello@brandsta.in.
 - [WhatsApp Business](https://wa.me/918129012205): Direct chat and consultation (+91 81290 12205).
 - [Brandsta on Instagram](https://www.instagram.com/brandsta.in): Official @brandsta.in social channel.
+
+## Optional
+- [XML Sitemap](https://brandsta.cc/sitemap.xml): Canonical crawl index for Brandsta Custom Code.
+- [Robots Policy](https://brandsta.cc/robots.txt): Open crawler and AI discovery directives.
