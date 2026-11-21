@@ -127,10 +127,10 @@ function scrollToSynthesis() {
         <div class="flex flex-col items-center justify-end pt-7 sm:pt-9">
           <button
             type="button"
-            class="explore-capsule group inline-flex h-11 items-center gap-3 rounded-full pl-5 pr-2 pt-1 text-white cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-electric"
+            class="explore-capsule group inline-flex h-11 items-center gap-3 rounded-full pl-4 pr-1.5 text-white cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-brand-electric"
             @click="scrollToSynthesis"
           >
-            <span class="cap-center whitespace-nowrap text-[0.66rem] sm:text-[0.68rem] font-bold uppercase tracking-[0.22em] text-white/90 group-hover:text-white">
+            <span class="pt-1 cap-center whitespace-nowrap text-[0.66rem] sm:text-[0.68rem] font-bold uppercase tracking-[0.22em] text-white/90 group-hover:text-white">
               EXPLORE ARCHITECTURE
             </span>
             <span
